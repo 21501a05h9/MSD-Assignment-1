@@ -1,0 +1,45 @@
+[
+    {
+        "id": "h9",
+        "name": "bharathi",
+        "age": 20,
+        "country": "India",
+        "trait": "Delusional"
+    },
+    {
+        "id": "f4",
+        "name": "amrutha",
+        "age": 20,
+        "country": "US-Africa",
+        "trait": "Racist"
+    },
+    {
+        "id": "j1",
+        "name": "sarvani",
+        "age": 19,
+        "country": "India",
+        "trait": "Delusional Ultra Pro Max"
+    },
+    {
+        "id": "h1",
+        "name": "sirija",
+        "age": 45,
+        "country": "Portugal",
+        "trait": "Matrix Escaper"
+    },
+    {
+        "id": "d6",
+        "name": "sindhu",
+        "age": 20,
+        "country": "USA",
+        "trait": "long hair or no hair"
+    },
+    {
+        "id": "e5",
+        "name": "kavya",
+        "age": "12",
+        "country": "No origin",
+        "trait": "Loves anything after 12"
+    }
+
+]
